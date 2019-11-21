@@ -1,2 +1,2 @@
 # hello-world
-New read gam
+New read game
